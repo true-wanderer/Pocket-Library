@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --bg: white;
+    --textColor: black;
+    --softBg: #f0f0f0;
+    --softTextColor: #626262;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    overflow-x: hidden;
+    background-color: black;
+    color: white;
+}
+
+.wrapper {
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #1f1f1f;
+    min-height: 100vh;
+}
+
+
+input {
+    color: black;
+}
+
+textarea {
+    color: black;
+}
