@@ -33,7 +33,7 @@ To get started with Pocket Cloud, follow these steps:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/Jayant-001/Language-Learning-App.git`
+1. Clone the repository: `git clone (https://github.com/true-wanderer/Pocket-Library.git)
 2. Navigate to the project directory: `cd Language-Learning-App`
 3. Generate Prisma client: `npx prisma generate`
 4. Install the dependencies: `yarn install`
